@@ -10,7 +10,7 @@
 ### 1. ✈️ C++ 飞机大战 (Plane War)
 基于 Visual Studio 和 EasyX 图形库开发的经典射击游戏。
 - **核心技术**: C++, 面向对象编程, EasyX, 碰撞检测
-- **源码路径**: [点击查看源码文件夹]([./飞机大战游戏](https://github.com/kinjo886/C--PlaneWar-Game)) 
+- **源码路径**: [点击查看源码文件夹](https://github.com/kinjo886/C--PlaneWar-Game) 
 
 ### 2. 🐍 Python 招聘网站爬虫
 (等你上传了爬虫项目后，在这里写介绍...)

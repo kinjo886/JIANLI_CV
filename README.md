@@ -1,28 +1,17 @@
-# 吴俊 · 个人作品集与电子简历
+# 个人作品集与开源项目
 
-> 本仓库是我的**个人电子简历与开源作品集首页**。GitHub Pages 地址：https://kinjo886.github.io/JIANLI_CV/
+> 本仓库是**公开的开源作品集首页**，仅汇总项目与技术方向，**不含任何个人真实信息**（已移除证件照、姓名、联系方式、学校等可识别内容）。GitHub Pages 地址：https://kinjo886.github.io/JIANLI_CV/
 
 ## 仓库结构
 
 | 文件 | 说明 |
 |------|------|
-| `index.html` | 作品集主页：个人信息 + 4 个简历方向入口 + 全部开源项目卡片 |
-| `resume-cpp.html` | 简历 · C++ 方向 |
-| `resume-ai.html` | 简历 · AI 方向 |
-| `resume-data-analysis.html` | 简历 · 数据分析方向 |
-| `resume-data-governance.html` | 简历 · 数据开发与治理方向 |
+| `index.html` | 作品集主页：全部开源项目卡片（按方向分组），无个人真实信息 |
 | `LICENSE` | MIT License |
 
-> 4 份简历均为单文件自包含（内嵌证件照），可直接打开或打印为 PDF。
+> 说明：完整个人简历**不在此公开仓库中**，如需查阅请通过 GitHub 私信联系。
 
-## 简历方向
-
-- [C++ 方向](./resume-cpp.html)
-- [AI 方向](./resume-ai.html)
-- [数据分析方向](./resume-data-analysis.html)
-- [数据开发与治理方向](./resume-data-governance.html)
-
-## 项目作品集（节选）
+## 项目作品集
 
 作品集主页已汇总全部公开仓库，按方向分组：
 
@@ -35,7 +24,6 @@
 
 ## 联系方式
 
-- Email：23jwu2@stu.edu.cn
 - GitHub：[@kinjo886](https://github.com/kinjo886)
 
 ---
